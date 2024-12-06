@@ -155,12 +155,6 @@ See documentation here: https://core.telegram.org/bots/api#inline-mode
 # ▋Thanks a bunch for starring the project! :star:
 If you have any suggestions or feedback, feel free to share. I appreciate your interest and contribution to the project!
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=FantasticSukhi/AwesomeChatGPTBot&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=FantasticSukhi/AwesomeChatGPTBot&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=FantasticSukhi/AwesomeChatGPTBot&type=Date" />
-</picture>
-
 <br>
 
 # ▋Full Change Log
